@@ -1,0 +1,6 @@
+{
+  "name": "Coding Nation",
+  "description": "Software architecture documentation for a production-ready enterprise Coding Nation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
